@@ -45,7 +45,7 @@ const Cart = () => {
                 />
                 <Button
                     onClick={() => dispatch(closeCart())}
-                    content="close"
+                    content="Cerrar"
                     size="wide"
                     color="red"
                     animation="color"
